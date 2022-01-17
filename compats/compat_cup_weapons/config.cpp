@@ -12,5 +12,5 @@ class CfgPatches {
     };
 };
 
-#include "XtdGearModels.hpp"
-#include "XtdGearInfos.hpp"
+#include "models\XtdGearModels.hpp"
+#include "infos\XtdGearInfos.hpp"
