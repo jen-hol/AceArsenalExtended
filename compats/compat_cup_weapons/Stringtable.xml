@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACE3 Arsenal Extended CUP Weapons Compat">
+  <Package name="Common">
+    <Container name="Common">
+      <Key ID="STR_ACEAX_CUP_author">
+        <Original>Doctor Internet</Original>
+        <English>Doctor Internet</English>
+        <Czech>Doctor Internet</Czech>
+        <French>Doctor Internet</French>
+        <Spanish>Doctor Internet</Spanish>
+        <Italian>Doctor Internet</Italian>
+        <Polish>Doctor Internet</Polish>
+        <Portuguese>Doctor Internet</Portuguese>
+        <Russian>Doctor Internet</Russian>
+        <German>Doctor Internet</German>
+      </Key>
+    </Container>
+    <Container name="Camo">
+      <Key ID="STR_ACEAX_CUP_WDL_dn">
+        <Original>Woodland</Original>
+        <English>Woodland</English>
+      </Key>
+      <Key ID="STR_ACEAX_CUP_WDL_dsc">
+        <Original>Woodland (NATO)</Original>
+        <English>Woodland (NATO)</English>
+      </Key>
+      <Key ID="STR_ACEAX_CUP_SNW_dn">
+        <Original>Snow</Original>
+        <English>Snow</English>
+      </Key>
+    </Container>
+    <Container name="Caliber">
+      <Key ID="STR_ACEAX_CUP_caliber_dn">
+        <Original>Weapon Caliber</Original>
+        <English>Weapon Caliber</English>
+      </Key>
+      <Key ID="STR_ACEAX_CUP_cal_556_dn">
+        <Original>5.56 NATO</Original>
+        <English>5.56 NATO</English>
+      </Key>
+      <Key ID="STR_ACEAX_CUP_cal_556_dsc">
+        <Original>5.56x45mm NATO</Original>
+        <English>5.56x45mm NATO</English>
+      </Key>
+      <Key ID="STR_ACEAX_CUP_cal_68_dn">
+        <Original>6.8 SPC</Original>
+        <English>6.8 SPC</English>
+      </Key>
+      <Key ID="STR_ACEAX_CUP_cal_68_dsc">
+        <Original>6.8×43mm Remington SPC</Original>
+        <English>6.8×43mm Remington SPC</English>
+      </Key>
+    </Container>
+  </Package>
+  <Package name="GearModels">
+    <Container name="ACR">
+      <Key ID="STR_ACEAX_CUP_ACR_label">
+        <Original>ACR</Original>
+        <English>ACR</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>
