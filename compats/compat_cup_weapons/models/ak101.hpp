@@ -1,5 +1,5 @@
 class CUP_AK101 {
-	label = "AK 101-109";
+	label = "AK-100 Series";
 	author = "$STR_ACEAX_CUP_author";
 
 	options[] = {"akmodel", "rail", "ugl"};
