@@ -6,6 +6,6 @@ class XtdGearModels {
 		#include "hk417.hpp"
 		#include "hk416.hpp"
 
-		#include "ak101.hpp"
+		#include "ak100.hpp"
 	};
 };
