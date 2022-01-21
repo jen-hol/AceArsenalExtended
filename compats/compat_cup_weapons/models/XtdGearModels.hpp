@@ -1,4 +1,6 @@
 class XtdGearModels {
+	#include "_options.hpp"
+
 	class CfgWeapons {
 		#include "acr.hpp"
 		#include "hk417.hpp"
