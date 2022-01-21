@@ -1,125 +1,125 @@
 class CUP_arifle_HK416_Black {
 	model = "CUP_HK416";
 	camo = "BLK";
-	length = "standard";
-	ugl = "none";
+	length = "Standard";
+	ugl = "None";
 };
 
 class CUP_arifle_HK416_Desert {
 	model = "CUP_HK416";
-	camo = "CUP_DESERT";
-	length = "standard";
-	ugl = "none";
+	camo = "DST";
+	length = "Standard";
+	ugl = "None";
 };
 
 class CUP_arifle_HK416_Wood {
 	model = "CUP_HK416";
-	camo = "CUP_WDL";
-	length = "standard";
-	ugl = "none";
+	camo = "WDL";
+	length = "Standard";
+	ugl = "None";
 };
 
 class CUP_arifle_HK416_CQB_Black {
 	model = "CUP_HK416";
 	camo = "BLK";
-	length = "cqc";
-	ugl = "none";
+	length = "CQC";
+	ugl = "None";
 };
 
 class CUP_arifle_HK416_CQB_Desert {
 	model = "CUP_HK416";
-	camo = "CUP_DESERT";
-	length = "cqc";
-	ugl = "none";
+	camo = "DST";
+	length = "CQC";
+	ugl = "None";
 };
 
 class CUP_arifle_HK416_CQB_Wood {
 	model = "CUP_HK416";
-	camo = "CUP_WDL";
-	length = "cqc";
-	ugl = "none";
+	camo = "WDL";
+	length = "CQC";
+	ugl = "None";
 };
 
 class CUP_arifle_HK416_CQB_M203_Black {
 	model = "CUP_HK416";
 	camo = "BLK";
-	length = "cqc";
-	ugl = "m203";
+	length = "CQC";
+	ugl = "M203";
 };
 
 class CUP_arifle_HK416_CQB_M203_Desert {
 	model = "CUP_HK416";
-	camo = "CUP_DESERT";
-	length = "cqc";
-	ugl = "m203";
+	camo = "DST";
+	length = "CQC";
+	ugl = "M203";
 };
 
 class CUP_arifle_HK416_CQB_M203_Wood {
 	model = "CUP_HK416";
-	camo = "CUP_WDL";
-	length = "cqc";
-	ugl = "m203";
+	camo = "WDL";
+	length = "CQC";
+	ugl = "M203";
 };
 
 class CUP_arifle_HK416_CQB_AG36 {
 	model = "CUP_HK416";
 	camo = "BLK";
-	length = "cqc";
-	ugl = "m320";
+	length = "CQC";
+	ugl = "M320";
 };
 
 class CUP_arifle_HK416_CQB_AG36_Desert {
 	model = "CUP_HK416";
-	camo = "CUP_DESERT";
-	length = "cqc";
-	ugl = "m320";
+	camo = "DST";
+	length = "CQC";
+	ugl = "M320";
 };
 
 class CUP_arifle_HK416_CQB_AG36_Wood {
 	model = "CUP_HK416";
-	camo = "CUP_WDL";
-	length = "cqc";
-	ugl = "m320";
+	camo = "WDL";
+	length = "CQC";
+	ugl = "M320";
 };
 
 class CUP_arifle_HK416_M203_Black {
 	model = "CUP_HK416";
 	camo = "BLK";
-	length = "standard";
-	ugl = "m203";
+	length = "Standard";
+	ugl = "M203";
 };
 
 class CUP_arifle_HK416_M203_Desert {
 	model = "CUP_HK416";
-	camo = "CUP_DESERT";
-	length = "standard";
-	ugl = "m203";
+	camo = "DST";
+	length = "Standard";
+	ugl = "M203";
 };
 
 class CUP_arifle_HK416_M203_Wood {
 	model = "CUP_HK416";
-	camo = "CUP_WDL";
-	length = "standard";
-	ugl = "m203";
+	camo = "WDL";
+	length = "Standard";
+	ugl = "M203";
 };
 
 class CUP_arifle_HK416_AGL_Black {
 	model = "CUP_HK416";
 	camo = "BLK";
-	length = "standard";
-	ugl = "m320";
+	length = "Standard";
+	ugl = "M320";
 };
 
 class CUP_arifle_HK416_AGL_Desert {
 	model = "CUP_HK416";
-	camo = "CUP_DESERT";
-	length = "standard";
-	ugl = "m320";
+	camo = "DST";
+	length = "Standard";
+	ugl = "M320";
 };
 
 class CUP_arifle_HK416_AGL_Wood {
 	model = "CUP_HK416";
-	camo = "CUP_WDL";
-	length = "standard";
-	ugl = "m320";
+	camo = "WDL";
+	length = "Standard";
+	ugl = "M320";
 };
