@@ -32,22 +32,27 @@ class CUPCamo: CamoBase {
 #define AKMDL(NUM) class AK##NUM {\
 	label = QUOTE(AK-##NUM);\
 	DEFAULT_IMAGE;\
-};
+}
+#define AKMDLD(NUM,DESC) class AK##NUM {\
+	label = QUOTE(AK-##NUM);\
+	description = QUOTE(DESC);\
+	DEFAULT_IMAGE;\
+}
 
 class CUPModel {
 	label = "Weapon Model";
 	changeingame = 0;
 	values[] = {};
 
-	AKMDL(101);
-	AKMDL(102);
-	AKMDL(103);
-	AKMDL(104);
-	AKMDL(105);
+	AKMDLD(101, "5.56 NATO");
+	AKMDLD(102, "5.56 NATO / Carbine");
+	AKMDLD(103, "7.62x39mm");
+	AKMDLD(104, "7.62x39mm / Carbine");
+	AKMDLD(105, "5.45x39mm / Carbine");
 	AKMDL(106);
-	AKMDL(107);
-	AKMDL(108);
-	AKMDL(109);
+	AKMDLD(107, "5.45x39mm / 3rnd Burst");
+	AKMDLD(108, "5.56 NATO / 3rnd Burst");
+	AKMDLD(109, "7.62x39mm / 3rnd Burst");
 };
 
 #undef AKMDL
