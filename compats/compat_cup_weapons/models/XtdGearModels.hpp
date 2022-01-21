@@ -5,5 +5,7 @@ class XtdGearModels {
 		#include "acr.hpp"
 		#include "hk417.hpp"
 		#include "hk416.hpp"
+
+		#include "ak101.hpp"
 	};
 };
