@@ -35,7 +35,7 @@ class CUPCamo: CamoBase {
 }
 #define AKMDLD(NUM,DESC) class AK##NUM {\
 	label = QUOTE(AK-##NUM);\
-	description = QUOTE(DESC);\
+	description = DESC;\
 	DEFAULT_IMAGE;\
 }
 
