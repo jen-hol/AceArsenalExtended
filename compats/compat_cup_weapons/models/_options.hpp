@@ -105,6 +105,7 @@ class CUPRail {
 	class RIS {
 		label = "RIS";
 		description = "Sight Rail";
+		DEFAULT_IMAGE;
 	};
 	class Zentico {
 		label = "Zentico/RIS";
