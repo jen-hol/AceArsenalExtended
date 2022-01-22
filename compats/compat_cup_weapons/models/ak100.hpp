@@ -1,4 +1,4 @@
-class CUP_AK101 {
+class CUP_AK100 {
 	label = "AK-100 Series";
 	author = "$STR_ACEAX_CUP_author";
 
