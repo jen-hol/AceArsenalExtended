@@ -7,7 +7,7 @@ class CUP_HK417 {
 	};
 
 	class length: CUPLength {
-		values[] = {"Standard", "CQC"};
+		values[] = {"DMR", "CQC"};
 	};
 
 	class ugl: CUPUGL {
