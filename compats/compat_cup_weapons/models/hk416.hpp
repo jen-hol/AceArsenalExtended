@@ -1,6 +1,5 @@
-class CUP_HK417 {
-	label = "HK417";
-	author = "$STR_ACEAX_CUP_author";
+class CUP_HK416 {
+	HDR(HK416);
 	options[] = {"camo", "length", "ugl"};
 
 	class camo: CUPCamo {

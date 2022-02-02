@@ -1,6 +1,5 @@
 class CUP_ACR {
-	label = "$STR_ACEAX_CUP_ACR_label";
-	author = "$STR_ACEAX_CUP_author";
+	HDR(ACR);
 	options[] = {"camo", "caliber", "length", "ugl"};
 
 	class camo: CUPCamo {
