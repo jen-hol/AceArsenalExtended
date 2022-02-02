@@ -200,6 +200,42 @@
         <Original>7.62x39mm / 3rnd Burst</Original>
         <English>7.62x39mm / 3rnd Burst</English>
       </Key>
+      <Key ID="STR_aceax_option_value_dn_Zentico">
+        <Original>Zentico</Original>
+        <English>Zentico</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Zentico">
+        <Original>Sight Rail &amp; Side Rails</Original>
+        <English>Sight Rail &amp; Side Rails</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_GP25">
+        <Original>GP25</Original>
+        <English>GP25</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK12">
+        <Original>AK-12</Original>
+        <English>AK-12</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK12">
+        <Original>5.45x39mm</Original>
+        <English>5.45x39mm</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK15">
+        <Original>AK-15</Original>
+        <English>AK-15</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK15">
+        <Original>7.62x39mm</Original>
+        <English>7.62x39mm</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK19">
+        <Original>AK-19</Original>
+        <English>AK-19</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK19">
+        <Original>5.56mm</Original>
+        <English>5.56mm</English>
+      </Key>
     </Container>
   </Package>
 </Project>
