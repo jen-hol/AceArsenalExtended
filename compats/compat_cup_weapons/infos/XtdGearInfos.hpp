@@ -12,5 +12,16 @@ class XtdGearInfos {
 		#include "ak107.hpp"
 		#include "ak108.hpp"
 		#include "ak109.hpp"
+		#include "ak12.hpp"
+
+		#include "asval.hpp"
+
+		#include "m4a1.hpp"
+		#include "m4a1sopmod.hpp"
+		#include "m4sbr.hpp"
+
+		#include "m27.hpp"
+
+		#include "csz.hpp"
 	};
 };

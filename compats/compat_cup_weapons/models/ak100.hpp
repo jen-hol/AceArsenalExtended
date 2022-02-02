@@ -1,7 +1,5 @@
 class CUP_AK100 {
-	label = "AK-100 Series";
-	author = "$STR_ACEAX_CUP_author";
-
+	HDR(AK100);
 	options[] = {"akmodel", "rail", "ugl"};
 
 	class akmodel: CUPModel {

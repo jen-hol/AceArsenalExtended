@@ -1,0 +1,124 @@
+#define AKMDL(SUFFIX,MODEL,UGL,CAMO) class CUP_arifle_##SUFFIX {\
+	model = "CUP_AK10";\
+	akmodel = #MODEL;\
+	camo = #CAMO;\
+	ugl = #UGL;\
+};
+
+#define A12(SUFFIX,UGL,CAMO) AKMDL(AK12_##SUFFIX,AK12,UGL,CAMO)
+#define A15(SUFFIX,UGL,CAMO) AKMDL(AK15_##SUFFIX,AK15,UGL,CAMO)
+#define A19(SUFFIX,UGL,CAMO) AKMDL(AK19_##SUFFIX,AK19,UGL,CAMO)
+
+A12(black, None, BLK);
+A12(AFG_black, AFG, BLK);
+A12(VG_black, FG, BLK);
+A12(GP34_black, GP34, BLK);
+A12(arid, None, ARID);
+A12(AFG_arid, AFG, ARID);
+A12(VG_arid, FG, ARID);
+A12(GP34_arid, GP34, ARID);
+A12(lush, None, LUSH);
+A12(AFG_lush, AFG, LUSH);
+A12(VG_lush, FG, LUSH);
+A12(GP34_lush, GP34, LUSH);
+A12(tan, None, MTAN);
+A12(AFG_tan, AFG, MTAN);
+A12(VG_tan, FG, MTAN);
+A12(GP34_tan, GP34, MTAN);
+A12(snowtiger, None, STIG);
+A12(AFG_snowtiger, AFG, STIG);
+A12(VG_snowtiger, FG, STIG);
+A12(GP34_snowtiger, GP34, STIG);
+A12(tiger, None, TIG);
+A12(AFG_tiger, AFG, TIG);
+A12(VG_tiger, FG, TIG);
+A12(GP34_tiger, GP34, TIG);
+A12(bicolor, None, TWOC);
+A12(AFG_bicolor, AFG, TWOC);
+A12(VG_bicolor, FG, TWOC);
+A12(GP34_bicolor, GP34, TWOC);
+A12(winter, None, WNT);
+A12(AFG_winter, AFG, WNT);
+A12(VG_winter, FG, WNT);
+A12(GP34_winter, GP34, WNT);
+A12(wood, None, WDL);
+A12(AFG_wood, AFG, WDL);
+A12(VG_wood, FG, WDL);
+A12(GP34_wood, GP34, WDL);
+A15(black, None, BLK);
+A15(AFG_black, AFG, BLK);
+A15(VG_black, FG, BLK);
+A15(GP34_black, GP34, BLK);
+A15(arid, None, ARID);
+A15(AFG_arid, AFG, ARID);
+A15(VG_arid, FG, ARID);
+A15(GP34_arid, GP34, ARID);
+A15(lush, None, LUSH);
+A15(AFG_lush, AFG, LUSH);
+A15(VG_lush, FG, LUSH);
+A15(GP34_lush, GP34, LUSH);
+A15(tan, None, MTAN);
+A15(AFG_tan, AFG, MTAN);
+A15(VG_tan, FG, MTAN);
+A15(GP34_tan, GP34, MTAN);
+A15(snowtiger, None, STIG);
+A15(AFG_snowtiger, AFG, STIG);
+A15(VG_snowtiger, FG, STIG);
+A15(GP34_snowtiger, GP34, STIG);
+A15(tiger, None, TIG);
+A15(AFG_tiger, AFG, TIG);
+A15(VG_tiger, FG, TIG);
+A15(GP34_tiger, GP34, TIG);
+A15(bicolor, None, TWOC);
+A15(AFG_bicolor, AFG, TWOC);
+A15(VG_bicolor, FG, TWOC);
+A15(GP34_bicolor, GP34, TWOC);
+A15(winter, None, WNT);
+A15(AFG_winter, AFG, WNT);
+A15(VG_winter, FG, WNT);
+A15(GP34_winter, GP34, WNT);
+A15(wood, None, WDL);
+A15(AFG_wood, AFG, WDL);
+A15(VG_wood, FG, WDL);
+A15(GP34_wood, GP34, WDL);
+A19(black, None, BLK);
+A19(AFG_black, AFG, BLK);
+A19(VG_black, FG, BLK);
+A19(GP34_black, GP34, BLK);
+A19(arid, None, ARID);
+A19(AFG_arid, AFG, ARID);
+A19(VG_arid, FG, ARID);
+A19(GP34_arid, GP34, ARID);
+A19(lush, None, LUSH);
+A19(AFG_lush, AFG, LUSH);
+A19(VG_lush, FG, LUSH);
+A19(GP34_lush, GP34, LUSH);
+A19(tan, None, MTAN);
+A19(AFG_tan, AFG, MTAN);
+A19(VG_tan, FG, MTAN);
+A19(GP34_tan, GP34, MTAN);
+A19(snowtiger, None, STIG);
+A19(AFG_snowtiger, AFG, STIG);
+A19(VG_snowtiger, FG, STIG);
+A19(GP34_snowtiger, GP34, STIG);
+A19(tiger, None, TIG);
+A19(AFG_tiger, AFG, TIG);
+A19(VG_tiger, FG, TIG);
+A19(GP34_tiger, GP34, TIG);
+A19(bicolor, None, TWOC);
+A19(AFG_bicolor, AFG, TWOC);
+A19(VG_bicolor, FG, TWOC);
+A19(GP34_bicolor, GP34, TWOC);
+A19(winter, None, WNT);
+A19(AFG_winter, AFG, WNT);
+A19(VG_winter, FG, WNT);
+A19(GP34_winter, GP34, WNT);
+A19(wood, None, WDL);
+A19(AFG_wood, AFG, WDL);
+A19(VG_wood, FG, WDL);
+A19(GP34_wood, GP34, WDL);
+
+#undef A12
+#undef A15
+#undef A19
+#undef AKMDL
