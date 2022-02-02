@@ -78,6 +78,14 @@
         <Original>Underbarrel</Original>
         <English>Underbarrel</English>
       </Key>
+      <Key ID="STR_aceax_option_dn_CUPModel">
+        <Original>Weapon Model</Original>
+        <English>Weapon Model</English>
+      </Key>
+      <Key ID="STR_aceax_option_dn_CUPHandguard">
+        <Original>Handguard</Original>
+        <English>Handguard</English>
+      </Key>
     </Container>
     <Container name="Values">
       <Key ID="STR_aceax_option_value_dn_None">
@@ -235,6 +243,134 @@
       <Key ID="STR_aceax_option_value_dss_AK19">
         <Original>5.56mm</Original>
         <English>5.56mm</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_ARID">
+        <Original>Arid</Original>
+        <English>Arid</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_LUSH">
+        <Original>Lush</Original>
+        <English>Lush</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_MTAN">
+        <Original>Modern Tan</Original>
+        <English>Modern Tan</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_STIG">
+        <Original>Snow Tiger</Original>
+        <English>Snow Tiger</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_TIG">
+        <Original>Tiger</Original>
+        <English>Tiger</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_TWOC">
+        <Original>Two Colour</Original>
+        <English>Two Colour</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_WNT">
+        <Original>Winter</Original>
+        <English>Winter</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AFG">
+        <Original>Angled Foregrip</Original>
+        <English>Angled Foregrip</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_FG">
+        <Original>Foregrip</Original>
+        <English>Foregrip</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_GP34">
+        <Original>GP34</Original>
+        <English>GP34</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Scope">
+        <Original>Scope</Original>
+        <English>Scope</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_A1">
+        <Original>A1</Original>
+        <English>A1</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_A1">
+        <Original>Long Barrel</Original>
+        <English>Long Barrel</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_A1G1">
+        <Original>A1 G1</Original>
+        <English>A1 G1</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_A1G1">
+        <Original>Long Barrel with Grenade Launcher</Original>
+        <English>Long Barrel with Grenade Launcher</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_A2">
+        <Original>A2</Original>
+        <English>A2</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_A2">
+        <Original>Short Barrel</Original>
+        <English>Short Barrel</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_CYT">
+        <Original>Coyote</Original>
+        <English>Coyote</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_DST">
+        <Original>Desert</Original>
+        <English>Desert</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_CQC">
+        <Original>CQC</Original>
+        <English>CQC</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_M203">
+        <Original>M203</Original>
+        <English>M203</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_M320">
+        <Original>M320</Original>
+        <English>M320</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Factory">
+        <Original>Factory</Original>
+        <English>Factory</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Factory">
+        <Original>No Rails</Original>
+        <English>No Rails</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_MOE">
+        <Original>MOE</Original>
+        <English>MOE</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_MOE">
+        <Original>Single Angled Rail</Original>
+        <English>Single Angled Rail</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Quad">
+        <Original>Quad Rail</Original>
+        <English>Quad Rail</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_RC">
+        <Original>Rail Covers</Original>
+        <English>Rail Covers</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_RC">
+        <Original>Quad Rail with Covers</Original>
+        <English>Quad Rail with Covers</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_CTRG">
+        <Original>CTRG</Original>
+        <English>CTRG</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_CTRGT">
+        <Original>CTRG Tropic</Original>
+        <English>CTRG Tropic</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_UHEX">
+        <Original>Urban Hex</Original>
+        <English>Urban Hex</English>
       </Key>
     </Container>
   </Package>
