@@ -136,6 +136,70 @@
         <Original>EGLM</Original>
         <English>EGLM</English>
       </Key>
+      <Key ID="STR_aceax_option_value_dn_AK101">
+        <Original>AK-101</Original>
+        <English>AK-101</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK101">
+        <Original>5.56 NATO</Original>
+        <English>5.56 NATO</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK102">
+        <Original>AK-102</Original>
+        <English>AK-102</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK102">
+        <Original>5.56 NATO / Carbine</Original>
+        <English>5.56 NATO / Carbine</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK103">
+        <Original>AK-103</Original>
+        <English>AK-103</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK103">
+        <Original>7.62x39mm</Original>
+        <English>7.62x39mm</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK104">
+        <Original>AK-104</Original>
+        <English>AK-104</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK104">
+        <Original>7.62x39mm / Carbine</Original>
+        <English>7.62x39mm / Carbine</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK105">
+        <Original>AK-105</Original>
+        <English>AK-105</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK105">
+        <Original>5.45x39mm / Carbine</Original>
+        <English>5.45x39mm / Carbine</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK107">
+        <Original>AK-107</Original>
+        <English>AK-107</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK107">
+        <Original>5.45x39mm / 3rnd Burst</Original>
+        <English>5.45x39mm / 3rnd Burst</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK108">
+        <Original>AK-108</Original>
+        <English>AK-108</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK108">
+        <Original>5.56 NATO / 3rnd Burst</Original>
+        <English>5.56 NATO / 3rnd Burst</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AK109">
+        <Original>AK-109</Original>
+        <English>AK-109</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_AK109">
+        <Original>7.62x39mm / 3rnd Burst</Original>
+        <English>7.62x39mm / 3rnd Burst</English>
+      </Key>
     </Container>
   </Package>
 </Project>
