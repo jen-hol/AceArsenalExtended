@@ -149,7 +149,7 @@ class CUPHandguard {
 	values[] = {};
 
 	DEFD(Factory);
-	DEFD(Quad);
+	DEF(Quad);
 	DEFD(MOE);
 	DEFD(RC);
 };
