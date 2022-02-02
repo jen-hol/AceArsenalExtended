@@ -2,61 +2,139 @@
 <Project name="ACE3 Arsenal Extended CUP Weapons Compat">
   <Package name="Common">
     <Container name="Common">
-      <Key ID="STR_ACEAX_CUP_author">
-        <Original>Doctor Internet</Original>
-        <English>Doctor Internet</English>
-        <Czech>Doctor Internet</Czech>
-        <French>Doctor Internet</French>
-        <Spanish>Doctor Internet</Spanish>
-        <Italian>Doctor Internet</Italian>
-        <Polish>Doctor Internet</Polish>
-        <Portuguese>Doctor Internet</Portuguese>
-        <Russian>Doctor Internet</Russian>
-        <German>Doctor Internet</German>
-      </Key>
-    </Container>
-    <Container name="Camo">
-      <Key ID="STR_ACEAX_CUP_WDL_dn">
-        <Original>Woodland</Original>
-        <English>Woodland</English>
-      </Key>
-      <Key ID="STR_ACEAX_CUP_WDL_dsc">
-        <Original>Woodland (NATO)</Original>
-        <English>Woodland (NATO)</English>
-      </Key>
-      <Key ID="STR_ACEAX_CUP_SNW_dn">
-        <Original>Snow</Original>
-        <English>Snow</English>
-      </Key>
-    </Container>
-    <Container name="Caliber">
-      <Key ID="STR_ACEAX_CUP_caliber_dn">
-        <Original>Weapon Caliber</Original>
-        <English>Weapon Caliber</English>
-      </Key>
-      <Key ID="STR_ACEAX_CUP_cal_556_dn">
-        <Original>5.56 NATO</Original>
-        <English>5.56 NATO</English>
-      </Key>
-      <Key ID="STR_ACEAX_CUP_cal_556_dsc">
-        <Original>5.56x45mm NATO</Original>
-        <English>5.56x45mm NATO</English>
-      </Key>
-      <Key ID="STR_ACEAX_CUP_cal_68_dn">
-        <Original>6.8 SPC</Original>
-        <English>6.8 SPC</English>
-      </Key>
-      <Key ID="STR_ACEAX_CUP_cal_68_dsc">
-        <Original>6.8×43mm Remington SPC</Original>
-        <English>6.8×43mm Remington SPC</English>
+      <Key ID="STR_aceax_compat_cup_weapons_author">
+        <Original>CUP Team &amp; Doctor Internet</Original>
+        <English>CUP Team &amp; Doctor Internet</English>
       </Key>
     </Container>
   </Package>
-  <Package name="GearModels">
-    <Container name="ACR">
-      <Key ID="STR_ACEAX_CUP_ACR_label">
+  <Package name="Models">
+    <Container name="Models">
+      <Key ID="STR_aceax_model_dn_CUP_ACR">
         <Original>ACR</Original>
         <English>ACR</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_AK100">
+        <Original>AK 10x</Original>
+        <English>AK 10x</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_CZ805">
+        <Original>CZ 805</Original>
+        <English>CZ 805</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_HK416">
+        <Original>HK416</Original>
+        <English>HK416</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M27">
+        <Original>M27 IAR</Original>
+        <English>M27 IAR</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_HK417">
+        <Original>HK417</Original>
+        <English>HK417</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_CZ550">
+        <Original>CZ 550</Original>
+        <English>CZ 550</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_CZ584">
+        <Original>CZ 584</Original>
+        <English>CZ 584</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M4A1">
+        <Original>M4A1</Original>
+        <English>M4A1</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M4_SBR">
+        <Original>M4 SBR</Original>
+        <English>M4 SBR</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M4A1_SOPMOD">
+        <Original>M4A1 SOPMOD</Original>
+        <English>M4A1 SOPMOD</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_AK10">
+        <Original>AK1x</Original>
+        <English>AK1x</English>
+      </Key>
+    </Container>
+  </Package>
+  <Package name="Selections">
+    <Container name="Options">
+      <Key ID="STR_aceax_option_dn_CUPRail">
+        <Original>Rails</Original>
+        <English>Rails</English>
+      </Key>
+      <Key ID="STR_aceax_option_dn_CUPCaliber">
+        <Original>Weapon Caliber</Original>
+        <English>Weapon Caliber</English>
+      </Key>
+      <Key ID="STR_aceax_option_dn_CUPLength">
+        <Original>Barrel Length</Original>
+        <English>Barrel Length</English>
+      </Key>
+      <Key ID="STR_aceax_option_dn_CUPUGL">
+        <Original>Underbarrel</Original>
+        <English>Underbarrel</English>
+      </Key>
+    </Container>
+    <Container name="Values">
+      <Key ID="STR_aceax_option_value_dn_None">
+        <Original>None</Original>
+        <English>None</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_RIS">
+        <Original>Rails</Original>
+        <English>Rails</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_RIS">
+        <Original>Sight Rail</Original>
+        <English>Sight Rail</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_SNW">
+        <Original>Snow</Original>
+        <English>Snow</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_TAN">
+        <Original>Tan</Original>
+        <English>Tan</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_WDL">
+        <Original>Woodland</Original>
+        <English>Woodland</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Caliber556">
+        <Original>5.56 NATO</Original>
+        <English>5.56 NATO</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Caliber556">
+        <Original>5.56x45mm NATO</Original>
+        <English>5.56x45mm NATO</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Caliber68">
+        <Original>6.8 SPC</Original>
+        <English>6.8 SPC</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Caliber68">
+        <Original>6.8×43mm Remington SPC</Original>
+        <English>6.8×43mm Remington SPC</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Standard">
+        <Original>Standard</Original>
+        <English>Standard</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Compact">
+        <Original>Compact</Original>
+        <English>Compact</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_DMR">
+        <Original>DMR</Original>
+        <English>DMR</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_EGLM">
+        <Original>EGLM</Original>
+        <English>EGLM</English>
       </Key>
     </Container>
   </Package>
