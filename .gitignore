@@ -361,3 +361,6 @@ keys/*
 /compats/compat_amf/data/*.p3d
 /compats/compat_amf/data/patchs/*
 .test/
+
+# Ignore code workspaces for VSC
+workspace.code-workspace
