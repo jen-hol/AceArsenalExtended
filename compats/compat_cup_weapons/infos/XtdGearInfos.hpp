@@ -23,5 +23,6 @@ class XtdGearInfos {
 		#include "m27.hpp"
 
 		#include "csz.hpp"
+		#include "m3a1.hpp"
 	};
 };
