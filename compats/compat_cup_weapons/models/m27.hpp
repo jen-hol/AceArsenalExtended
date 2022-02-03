@@ -3,6 +3,6 @@ class CUP_M27 {
 	options[] = {"ugl"};
 
 	class ugl: CUPUGL {
-		options[] = {"None", "FG", "M320"};
+		values[] = {"None", "FG", "M320"};
 	};
 };
