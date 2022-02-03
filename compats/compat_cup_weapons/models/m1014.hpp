@@ -1,34 +1,16 @@
-class CUP_sgun_M1014 {
-	model = "CUP_M1014";
-	lenth = "Standard";
-	ugl = "None";
-	stock = "Standard";
-};
+class CUP_M1014 {
+	HDR(M1014);
+	options[] = {"length", "ugl", "stock"};
 
-class CUP_sgun_M1014_Entry {
-	model = "CUP_M1014";
-	length = "Entry";
-	ugl = "None";
-	stock = "Standard";
-};
+	class length: CUPLength {
+		values[] = {"Standard", "Entry"};
+	};
 
-class CUP_sgun_M1014_vfg {
-	model = "CUP_M1014";
-	length = "Standard";
-	ugl = "FG";
-	stock = "Standard";
-};
+	class ugl: CUPUGL {
+		values[] = {"None", "FG"};
+	};
 
-class CUP_sgun_M1014_solidstock {
-	model = "CUP_M1014";
-	length = "Standard";
-	ugl = "None";
-	stock = "Solid";
-};
-
-class CUP_sgun_M1014_Entry_vfg {
-	model = "CUP_M1014";
-	length = "Entry";
-	ugl = "FG";
-	stock = "Standard";
+	class stock: CUPStock {
+		values[] = {"Standard", "Solid"};
+	};
 };

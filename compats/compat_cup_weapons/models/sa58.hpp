@@ -1,19 +1,10 @@
-class CUP_arifle_SA58_Klec {
-	model = "CUP_SA58";
-	rail = "None";
-};
+class CUP_SA58 {
+	HDR(SA58);
+	options[] = {"rail"};
 
-class CUP_arifle_SA58_Klec_rearris {
-	model = "CUP_SA58";
-	rail = "Rear";
-};
-
-class CUP_arifle_SA58_Klec_frontris {
-	model = "CUP_SA58";
-	rail = "Front";
-};
-
-class CUP_arifle_SA58_Klec_ris {
-	model = "CUP_SA58";
-	rail = "RIS";
+	class rail: CUPRail {
+		// Rear = Dust Cover.
+		// Front = Gas Tube.
+		values[] = {"None", "Rear", "Front", "RIS"};
+	};
 };
