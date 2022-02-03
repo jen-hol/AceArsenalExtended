@@ -1,4 +1,4 @@
-#define C(S) CUP_lmg_M60E4_##SUFFIX
+#define C(SUFFIX) CUP_lmg_M60E4_##SUFFIX
 #define M model = "CUP_M60E4"
 #define CLS(SUFFIX,CAMO,RIS) class C(SUFFIX) {\
 	M;\
