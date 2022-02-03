@@ -145,6 +145,8 @@ class CUPRail {
 	DEFD(RIS);
 	DEFD(Zentico);
 	DEF(Scope);
+	DEF(Rear);
+	DEF(Front);
 };
 
 class CUPHandguard {
