@@ -21,5 +21,13 @@ class XtdGearInfos {
 		#include "m3a1.hpp"
 		#include "m60e4.hpp"
 		#include "mac10.hpp"
+		#include "sa58.hpp"
+		#include "l115a3.hpp"
+		#include "l129a1.hpp"
+		#include "l7a2.hpp"
+		#include "l85a2.hpp"
+		#include "m1014.hpp"
+		#include "m107.hpp"
+		#include "m110.hpp"
 	};
 };

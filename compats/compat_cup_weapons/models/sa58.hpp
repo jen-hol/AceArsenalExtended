@@ -7,4 +7,4 @@ class CUP_SA58 {
 		// Front = Gas Tube.
 		values[] = {"None", "Rear", "Front", "RIS"};
 	};
-}
+};
