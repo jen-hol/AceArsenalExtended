@@ -5,4 +5,4 @@ class CUP_M3A1 {
 	class camo: CUPCamo {
 		values[] = {"BLK", "GRN", "GRY", "SND"};
 	};
-}
+};
