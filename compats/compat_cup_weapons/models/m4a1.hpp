@@ -7,7 +7,7 @@ class CUP_M4A1 {
 	};
 
 	class length: CUPLength {
-		values[] = {"M4Long", "M4Short"};
+		values[] = {"Inches14_5", "Inches11_3"};
 	};
 
 	class handguard: CUPHandguard {
