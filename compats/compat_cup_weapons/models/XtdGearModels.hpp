@@ -20,6 +20,7 @@ class XtdGearModels {
 		#include "m27.hpp"
 		#include "czs.hpp"
 		#include "m3a1.hpp"
+		#include "m60e4.hpp"
 	};
 
 	#undef HDR
