@@ -1,5 +1,5 @@
 class CUP_SA58 {
-	HDR(L115A3);
+	HDR(SA58);
 	options[] = {"rail"};
 
 	class rail: CUPRail {
