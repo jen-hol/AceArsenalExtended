@@ -25,6 +25,7 @@ class XtdGearModels {
 		#include "sa58.hpp"
 		#include "l115a3.hpp"
 		#include "l129a1.hpp"
+		#include "l7a2.hpp"
 	};
 
 	#undef HDR
