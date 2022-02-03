@@ -3,7 +3,7 @@
 #define CLS(SUFFIX,CAMO,RIS) class C(SUFFIX) {\
 	M;\
 	camo = #CAMO;\
-	ris = #RIS;\
+	rail = #RIS;\
 }
 
 class CUP_lmg_M60E4 {
