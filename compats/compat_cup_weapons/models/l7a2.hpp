@@ -1,8 +1,9 @@
-class CUP_L7A2 {
-	HDR(L7A2);
-	options[] = {"rail"};
+class CUP_lmg_L7A2_flat {
+	model = "CUP_L7A2";
+	rail = "None";
+};
 
-	class rail: CUPRail {
-		values[] = {"None", "RIS"};
-	};
+class CUP_lmg_L7A2 {
+	model = "CUP_L7A2";
+	rail = "RIS";
 };

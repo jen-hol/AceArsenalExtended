@@ -1,8 +1,14 @@
-class CUP_L115A3 {
-	HDR(L115A3);
-	options[] = {"camo"};
+class CUP_srifle_AWM_blk {
+	model = "CUP_L115A3";
+	camo = "BLK";
+};
 
-	class camo: CUPCamo {
-		values[] = {"GRN", "BLK", "DST"};
-	};
+class CUP_srifle_AWM_wdl {
+	model = "CUP_L115A3";
+	camo = "GRN";	
+};
+
+class CUP_srifle_AWM_des {
+	model = "CUP_L115A3";
+	camo = "DST";
 };
