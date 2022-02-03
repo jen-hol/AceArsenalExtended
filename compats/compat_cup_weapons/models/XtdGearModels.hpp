@@ -11,17 +11,13 @@ class XtdGearModels {
 		#include "acr.hpp"
 		#include "hk417.hpp"
 		#include "hk416.hpp"
-
 		#include "m4a1.hpp"
 		#include "m4a1sopmod.hpp"
 		#include "m4sbr.hpp"
-
 		#include "ak100.hpp"
 		#include "ak10.hpp"
 		#include "asval.hpp"
-
 		#include "m27.hpp"
-
 		#include "czs.hpp"
 		#include "m3a1.hpp"
 	};
