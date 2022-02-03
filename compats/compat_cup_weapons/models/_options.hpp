@@ -35,6 +35,9 @@ class CUPCamo: CamoBase {
 	RCAMO(SNW,WHT);
 	RCAMO(WNT,WHT);
 
+	class OD;
+	RCAMO(GRN,OD);
+
 	CAMO(WDL,"#(rgb,8,8,3)color(0.02,0.39,0.30,1)");
 
 	CAMO(TAN,DEFAULT_COLOR);
