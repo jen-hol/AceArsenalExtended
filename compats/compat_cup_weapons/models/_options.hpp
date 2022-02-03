@@ -135,6 +135,7 @@ class CUPUGL {
 	DEF(AFG);
 	DEF(FG);
 	DEFD(FlashGrip);
+	DEF(L123A2);
 };
 
 class CUPRail {
