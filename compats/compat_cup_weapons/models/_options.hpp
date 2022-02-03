@@ -171,6 +171,7 @@ class CUPStock {
 
 	DEF(Standard);
 	DEF(Solid);
+	DEFD(PRS);
 };
 
 #undef OLBL

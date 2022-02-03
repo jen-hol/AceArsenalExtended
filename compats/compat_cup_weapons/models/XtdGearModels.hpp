@@ -29,6 +29,7 @@ class XtdGearModels {
 		#include "l85a2.hpp"
 		#include "m1014.hpp"
 		#include "m107.hpp"
+		#include "m110.hpp"
 	};
 
 	#undef HDR
