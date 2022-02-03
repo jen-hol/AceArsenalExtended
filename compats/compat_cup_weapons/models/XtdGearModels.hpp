@@ -23,6 +23,7 @@ class XtdGearModels {
 		#include "m60e4.hpp"
 		#include "mac10.hpp"
 		#include "sa58.hpp"
+		#include "l115a3.hpp"
 	};
 
 	#undef HDR
