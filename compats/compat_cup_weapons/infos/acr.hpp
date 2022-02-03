@@ -83,6 +83,7 @@ class CUP_arifle_ACRC_snw_556 {
 	camo = "SNW";
 	caliber = "Caliber556";
 	length = "Compact";
+	ugl = "None";
 };
 
 class CUP_arifle_ACRC_snw_68 {
