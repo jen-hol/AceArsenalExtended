@@ -107,6 +107,7 @@ class CUPLength {
 	DEF(DMR);
 	DEF(Compact);
 	DEF(CQC);
+	DEFD(Entry);
 
 	#define INCH(LEN) DEFD(Inches##LEN)
 	#define PINCH(LEN,SUB) DEFD(Inches##LEN##_##SUB)
@@ -160,6 +161,15 @@ class CUPHandguard {
 	DEF(Quad);
 	DEFD(MOE);
 	DEFD(RC);
+};
+
+class CUPStock {
+	OLABEL(CUPStock);
+	changeingame = 0;
+	values[] = {};
+
+	DEF(Standard);
+	DEF(Solid);
 };
 
 #undef OLBL
