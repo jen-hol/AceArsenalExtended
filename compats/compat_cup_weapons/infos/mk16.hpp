@@ -6,6 +6,7 @@ class CUP_arifle_Mk16_CQC {
 };
 
 class CUP_arifle_Mk16_CQC_AFG {
+    model = "CUP_MK16";
     length = "CQC";
     ugl = "AFG";
     camo = "TAN";
